@@ -1,0 +1,5 @@
+ECMAScript = Standards for Javascript
+Engine = Program that converts from Javascript to a language the kernel can understand
+
+v8 = Converts from Javascript to kernel language
+
