@@ -8,4 +8,12 @@ Non-Blocking I/O = Capacity to do tasks without pause or stop another tasks+
 ----------------------------------------------------------------
 ------------------HTTP protocol and web services
 npm init = To start the project
+npm install express = To install express
+
+HTTPS methods
+    •Get = Read
+    •POST = Create new record
+    •PUT = Replace existing record
+    •PATCH = Update some feature of the resource
+    •DELETE = Delete a record
 
