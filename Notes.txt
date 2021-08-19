@@ -3,3 +3,4 @@ Engine = Program that converts from Javascript to a language the kernel can unde
 
 v8 = Converts from Javascript to kernel language
 
+Non-Blocking I/O = Capacity to do tasks without pause or stop another tasks
