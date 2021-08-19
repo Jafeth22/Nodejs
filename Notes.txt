@@ -5,3 +5,7 @@ v8 = Converts from Javascript to kernel language
 
 Non-Blocking I/O = Capacity to do tasks without pause or stop another tasks+
 
+----------------------------------------------------------------
+------------------HTTP protocol and web services
+npm init = To start the project
+
