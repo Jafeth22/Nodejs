@@ -17,3 +17,10 @@ HTTPS methods
     •PATCH = Update some feature of the resource
     •DELETE = Delete a record
 
+On package.json file, here you will find a section named script, here add
+    •start = These are command that will be execute once this file is setup, in this case, the file INDEX.JS will be executed on type npm start
+
+
+*nodemon [-D] = It's a library that will restart the server if it has some change automatically, -D = For development mode
+
+Middleware = It's a section of code that will be executed between the request to response
