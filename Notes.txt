@@ -24,3 +24,10 @@ On package.json file, here you will find a section named script, here add
 *nodemon [-D] = It's a library that will restart the server if it has some change automatically, -D = For development mode
 
 Middleware = It's a section of code that will be executed between the request to response
+
+---------------------------------------------------------------
+------------------Frontend and Backends
+package.json file > scripts = Here you will define the comand for some accion,
+i.e: 
+    •start = this will be executed for production, also this is a native command
+    •dev = this is not a native command, so, when we run this comando, it would be something like this: npm run commandCreate
